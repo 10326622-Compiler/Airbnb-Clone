@@ -71,6 +71,8 @@ Improves customer satisfaction.
 Clear navigation, responsive design, and consistent visual elements are essential for success.
 
 🎨 More UI/UX Design Planning
+
+
 🎨 Color Styles
 Usage	Color Code
 Primary	#FF5A5F
@@ -78,6 +80,9 @@ Secondary	#008489
 Background	#FFFFFF
 Text	#222222
 Secondary Text	#717171
+
+
+
 ✍️ Typography
 Text Type	Font Family	Font Weight	Font Size
 Primary Font	Circular	Medium (500)	16px
