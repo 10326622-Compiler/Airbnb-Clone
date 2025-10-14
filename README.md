@@ -56,7 +56,9 @@ User authentication
 Page	Description
 Property Listing View	Displays available properties in a grid layout with filters for location, price, and amenities.
 Listing Detailed View	Shows full property details with images, ratings, host information, and a booking form.
-Simple Checkout View	Streamlined payment and booking confirmation interface.
+Simple Checkout View	Streamlined payment and booking confirmation interface
+
+
 💡 Importance of User-Friendly Design
 
 A well-designed booking system:
@@ -81,6 +83,8 @@ Text Type	Font Family	Font Weight	Font Size
 Primary Font	Circular	Medium (500)	16px
 Headings	Circular	Bold (700)	24px–32px
 Secondary Text	Circular	Book (400)	14px
+
+
 🧠 Importance of Identifying Design Properties
 
 Identifying design properties such as color, font, and spacing:
