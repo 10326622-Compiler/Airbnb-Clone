@@ -131,20 +131,31 @@ Scrum Master	Facilitate agile processes, remove blockers, and coordinate team me
 🧩 UI Component Patterns
 Planned Components
 Component	Description
+
 Navbar
+
 Contains logo
+
 search bar
+
 user navigation
- responsive menu.
+
+responsive menu.
 
 Property Card	
 
 Displays property image
+
 price
+
 location
+
 rating; includes a favorite button.
 
 Footer	Includes
+
 site links
+
 company information
+
 social media links.
