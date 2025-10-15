@@ -112,12 +112,19 @@ Helps maintain a cohesive brand identity throughout the product.
 👥 Project Roles and Responsibilities
 Role	Responsibilities
 Project Manager	Oversees timeline, coordinates team efforts, and manages deliverables.
+
 Frontend Developers	Build UI components, implement responsive designs, and ensure accessibility.
+
 Backend Developers	Develop APIs, manage databases, and handle business logic.
+
 Designers	Create Figma mockups, maintain the design system, and ensure UX quality.
+
 QA/Testers	Write test cases, perform testing, and report bugs.
+
 DevOps Engineers	Manage deployment, CI/CD pipelines, and server infrastructure.
+
 Product Owner	Define requirements, prioritize features, and represent stakeholders.
+
 Scrum Master	Facilitate agile processes, remove blockers, and coordinate team meetings.
 
 
